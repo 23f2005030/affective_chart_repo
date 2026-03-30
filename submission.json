@@ -1,0 +1,7 @@
+{
+  "prompt": "A crowded city street at night, filled with people walking and sitting in cafes. Between the people are many empty chairs scattered on the sidewalk, each empty chair representing a person who died from ambient PM2.5 air pollution each year. The empty chairs are clearly visible, in a slightly darker shade than the occupied chairs, creating a sense of absence and loss. The scene is cinematic, somber, high contrast, muted orange and blue tones, dramatic side lighting, no people clearly identifiable, no text, no labels, no axis markings, no charts, no bar charts, no pie charts, no graphs, no numbers, no legends.",
+  "model": "DALL·E 3",
+  "dataset_name": "Absolute deaths from ambient PM2.5 air pollution - State of Global Air",
+  "dataset_url": "https://github.com/owid/owid-datasets/blob/master/datasets/Absolute%20deaths%20from%20ambient%20PM2.5%20air%20pollution-%20State%20of%20Global%20Air/Absolute%20deaths%20from%20ambient%20PM2.5%20air%20pollution-%20State%20of%20Global%20Air.csv",
+  "insight": "Ambient air pollution from fine particles (PM2.5) kills more people every year than many wars or pandemics."
+}
